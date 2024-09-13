@@ -1,5 +1,5 @@
 # 30minToSleep
-This script will wait for 30 minutes (1800 seconds) and then set the computer into sleep mode immediately.
+his script will wait for 30 minutes (1800 seconds) and then immediately set the computer into sleep mode.
 
     @echo off
     timeout /t 1800 /nobreak
